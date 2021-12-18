@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/gitlinkboardsample/7032687a-eeab-4221-a763-c4c9aaed67a4/3ca3327f-374e-4c63-ac2d-bd7887e5e35e/_apis/work/boardbadge/afe3fed5-a19a-4901-8f81-56f4ad5db293)](https://dev.azure.com/gitlinkboardsample/7032687a-eeab-4221-a763-c4c9aaed67a4/_boards/board/t/3ca3327f-374e-4c63-ac2d-bd7887e5e35e/Microsoft.RequirementCategory)
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
